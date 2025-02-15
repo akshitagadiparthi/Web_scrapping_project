@@ -7,7 +7,7 @@ I decided to use **Beautiful Soup** to try to extract data and create a dataset 
 
 ## Python file
 
-The whole web scrapping process was performed using Beautiful Soup library [*collecting_data.py*](https://github.com/lucjankonopka/web_scrapping/blob/main/collecting_data.py).
+The whole web scrapping process was performed using Beautiful Soup library [*collecting_data.py*](https://github.com/akshitagadiparthi/web_scrapping_project/blob/main/collecting_data.py).
 
 The process is also included in the jupyter notebook file [*web_scrapping_restaurants_in_berlin.ipynb*](https://github.com/lucjankonopka/web_scrapping/blob/main/web_scrapping_restaurants_in_berlin.ipynb).
 
