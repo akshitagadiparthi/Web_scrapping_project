@@ -19,4 +19,4 @@ The new created dataset was used to further analysis.
 
 ## Visualisation
 
-The gathered data was used to create an [*interactive map of restaurants in Berlin*](https://public.tableau.com/app/profile/lucjan.konopka/viz/RestaurantsinBerlin/RestaurantsinBerlin) in Tableau Public.
+The gathered data was used to create an [*interactive map of restaurants in Berlin*](https://public.tableau.com/app/profile/akshita.gadiparthi2602/viz/RestaurantsinBerlin_17396414876560/RestaurantsinBerlin?publish=yes) in Tableau Public.
