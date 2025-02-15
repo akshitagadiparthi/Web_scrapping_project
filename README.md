@@ -1,9 +1,9 @@
-# Web Scrapping - Beautiful Soup
+# Web Scrapping 
 
 Technology used: *python, beautiful soup, pandas*
 
-
-I just found a good data source of restaurants in Berlin. I decided to use Beautiful Soup to try to extract data and create a dataset with all restaurants in Berlin.
+Amidst planning a vacation to Berlin for my family, I figured I could use my analytics knowledge to help organise all the restaurant information in that area.  
+I decided to use **Beautiful Soup** to try to extract data and create a dataset with all the restaurants in Berlin.
 
 ## Python file
 
